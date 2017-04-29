@@ -1,0 +1,22 @@
+{
+  "name": "before-power-off",
+  "version": "0.1.0",
+  "description": "Call callback on ACPI Power Button event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drpaulbrewer/before-power-off.git"
+  },
+  "keywords": [
+    "acpi-power-off"
+  ],
+  "author": "drpaulbrewer@eaftc.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drpaulbrewer/before-power-off/issues"
+  },
+  "homepage": "https://github.com/drpaulbrewer/before-power-off#readme"
+}
