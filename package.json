@@ -1,6 +1,6 @@
 {
   "name": "before-power-off",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Call callback on ACPI Power Button event",
   "main": "index.js",
   "scripts": {
