@@ -6,7 +6,8 @@
 
 const acpiSocketFile = '/var/run/acpid.socket';
 const net = require('net');
-const powerEventEmitter = new require('events').EventEmitter();
+const EventEmitter = require('events');
+const powerEventEmitter = new EventEmitter();
 let acpiSocket;
 let connected = 0;
 
